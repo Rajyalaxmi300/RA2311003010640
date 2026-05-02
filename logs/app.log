@@ -1,0 +1,222 @@
+[2026-05-02 11:22:48] INFO: Logger working
+[2026-05-02 11:23:05] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:23:14] INFO: Received request for /schedule
+[2026-05-02 11:23:14] INFO: Fetching depots from API...
+[2026-05-02 11:23:15] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:23:15] INFO: GET /schedule - 500 - 638ms
+[2026-05-02 11:24:37] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 11:24:37] ERROR: Error in getTop10: [object Object]
+[2026-05-02 11:27:04] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 11:27:05] INFO: Fetched 20 total notifications
+[2026-05-02 11:27:05] INFO: Top 10 priority notifications selected successfully
+[2026-05-02 11:27:05] INFO: #1 | Type: Placement | Message: TSMC hiring | Timestamp: 2026-05-02 05:25:57
+[2026-05-02 11:27:05] INFO: #2 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-02 03:55:33
+[2026-05-02 11:27:05] INFO: #3 | Type: Placement | Message: Nvidia Corporation hiring | Timestamp: 2026-05-02 01:56:09
+[2026-05-02 11:27:05] INFO: #4 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-02 01:56:03
+[2026-05-02 11:27:05] INFO: #5 | Type: Placement | Message: Amgen Inc. hiring | Timestamp: 2026-05-01 23:56:39
+[2026-05-02 11:27:05] INFO: #6 | Type: Placement | Message: Nvidia Corporation hiring | Timestamp: 2026-05-01 23:55:51
+[2026-05-02 11:27:05] INFO: #7 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-01 17:56:27
+[2026-05-02 11:27:05] INFO: #8 | Type: Placement | Message: Amazon.com Inc. hiring | Timestamp: 2026-05-01 16:26:51
+[2026-05-02 11:27:05] INFO: #9 | Type: Result | Message: external | Timestamp: 2026-05-02 03:56:15
+[2026-05-02 11:27:05] INFO: #10 | Type: Result | Message: end-sem | Timestamp: 2026-05-02 01:55:45
+[2026-05-02 11:29:10] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:29:35] INFO: Received request for /schedule
+[2026-05-02 11:29:35] INFO: Fetching depots from API...
+[2026-05-02 11:29:35] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:29:35] INFO: GET /schedule - 500 - 254ms
+[2026-05-02 11:31:58] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:32:11] INFO: Received request for /schedule
+[2026-05-02 11:32:11] INFO: Fetching depots from API...
+[2026-05-02 11:32:11] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:32:11] INFO: GET /schedule - 500 - 169ms
+[2026-05-02 11:38:24] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:38:31] INFO: Received request for /schedule
+[2026-05-02 11:38:31] INFO: Fetching depots from API...
+[2026-05-02 11:38:31] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:38:31] INFO: GET /schedule - 500 - 76ms
+[2026-05-02 11:38:35] INFO: Received request for /schedule
+[2026-05-02 11:38:35] INFO: Fetching depots from API...
+[2026-05-02 11:38:35] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:38:35] INFO: GET /schedule - 500 - 35ms
+[2026-05-02 11:38:36] INFO: Received request for /schedule
+[2026-05-02 11:38:36] INFO: Fetching depots from API...
+[2026-05-02 11:38:37] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:38:37] INFO: GET /schedule - 500 - 28ms
+[2026-05-02 11:38:37] INFO: Received request for /schedule
+[2026-05-02 11:38:37] INFO: Fetching depots from API...
+[2026-05-02 11:38:37] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:38:37] INFO: GET /schedule - 500 - 57ms
+[2026-05-02 11:38:42] INFO: Received request for /schedule
+[2026-05-02 11:38:42] INFO: Fetching depots from API...
+[2026-05-02 11:38:42] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:38:42] INFO: GET /schedule - 500 - 49ms
+[2026-05-02 11:41:18] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:41:21] INFO: Received request for /schedule
+[2026-05-02 11:41:21] INFO: Fetching depots from API...
+[2026-05-02 11:41:22] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:41:22] INFO: GET /schedule - 500 - 91ms
+[2026-05-02 11:42:54] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:42:57] INFO: Received request for /schedule
+[2026-05-02 11:42:57] INFO: Fetching depots from API...
+[2026-05-02 11:42:57] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:42:57] INFO: GET /schedule - 500 - 104ms
+[2026-05-02 11:43:05] INFO: Received request for /schedule
+[2026-05-02 11:43:05] INFO: Fetching depots from API...
+[2026-05-02 11:43:05] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:43:05] INFO: GET /schedule - 500 - 93ms
+[2026-05-02 11:44:39] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:44:42] INFO: Received request for /schedule
+[2026-05-02 11:44:42] INFO: Fetching depots from API...
+[2026-05-02 11:44:43] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:44:43] INFO: GET /schedule - 500 - 165ms
+[2026-05-02 11:48:04] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:48:21] INFO: Received request for /schedule
+[2026-05-02 11:48:21] INFO: Fetching depots from API...
+[2026-05-02 11:48:21] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:48:21] INFO: GET /schedule - 500 - 65ms
+[2026-05-02 11:49:58] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 11:50:03] INFO: Received request for /schedule
+[2026-05-02 11:50:03] INFO: Fetching depots from API...
+[2026-05-02 11:50:03] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:50:03] INFO: GET /schedule - 500 - 143ms
+[2026-05-02 11:50:12] INFO: Received request for /schedule
+[2026-05-02 11:50:12] INFO: Fetching depots from API...
+[2026-05-02 11:50:12] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 11:50:12] INFO: GET /schedule - 500 - 111ms
+[2026-05-02 11:51:49] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:07:01] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:07:01] ERROR: Error in getTop10: [object Object]
+[2026-05-02 12:08:07] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:08:17] ERROR: Error in getTop10: read ECONNRESET
+[2026-05-02 12:08:51] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:09:00] ERROR: ERROR: read ECONNRESET
+[2026-05-02 12:10:51] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:11:00] ERROR: ERROR: read ECONNRESET
+[2026-05-02 12:11:34] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:12:14] INFO: Received request for /schedule
+[2026-05-02 12:12:14] INFO: Fetching depots from API...
+[2026-05-02 12:12:14] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:12:14] INFO: GET /schedule - 500 - 146ms
+[2026-05-02 12:12:36] INFO: Received request for /schedule
+[2026-05-02 12:12:36] INFO: Fetching depots from API...
+[2026-05-02 12:12:36] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:12:36] INFO: GET /schedule - 500 - 73ms
+[2026-05-02 12:12:51] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:12:54] INFO: Received request for /schedule
+[2026-05-02 12:12:54] INFO: Fetching depots from API...
+[2026-05-02 12:12:54] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:12:54] INFO: GET /schedule - 500 - 61ms
+[2026-05-02 12:14:12] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:14:16] INFO: Received request for /schedule
+[2026-05-02 12:14:16] INFO: Fetching depots from API...
+[2026-05-02 12:14:16] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:14:16] INFO: GET /schedule - 500 - 57ms
+[2026-05-02 12:14:27] INFO: Received request for /schedule
+[2026-05-02 12:14:27] INFO: Fetching depots from API...
+[2026-05-02 12:14:27] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:14:27] INFO: GET /schedule - 500 - 61ms
+[2026-05-02 12:18:08] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:18:22] INFO: Received request for /schedule
+[2026-05-02 12:18:22] INFO: Fetching depots from API...
+[2026-05-02 12:18:22] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:18:22] INFO: GET /schedule - 500 - 144ms
+[2026-05-02 12:18:28] INFO: Received request for /schedule
+[2026-05-02 12:18:28] INFO: Fetching depots from API...
+[2026-05-02 12:18:29] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:18:29] INFO: GET /schedule - 500 - 63ms
+[2026-05-02 12:20:41] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:22:08] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:22:21] INFO: Received request for /schedule
+[2026-05-02 12:22:21] INFO: Fetching depots from API...
+[2026-05-02 12:22:21] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:22:21] INFO: GET /schedule - 500 - 111ms
+[2026-05-02 12:25:58] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:26:10] INFO: Received request for /schedule
+[2026-05-02 12:26:10] INFO: Fetching depots from API...
+[2026-05-02 12:26:10] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:26:10] INFO: GET /schedule - 500 - 85ms
+[2026-05-02 12:28:33] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:28:38] INFO: Received request for /schedule
+[2026-05-02 12:28:38] INFO: Fetching depots from API...
+[2026-05-02 12:28:38] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:28:38] INFO: GET /schedule - 500 - 152ms
+[2026-05-02 12:30:18] INFO: Received request for /schedule
+[2026-05-02 12:30:18] INFO: Fetching depots from API...
+[2026-05-02 12:30:18] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:30:18] INFO: GET /schedule - 500 - 56ms
+[2026-05-02 12:30:50] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:31:00] INFO: Received request for /schedule
+[2026-05-02 12:31:00] INFO: Fetching depots from API...
+[2026-05-02 12:31:00] ERROR: Error in /schedule: Request failed with status code 401
+[2026-05-02 12:31:00] INFO: GET /schedule - 500 - 94ms
+[2026-05-02 12:33:15] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:33:26] INFO: Received GET /schedule
+[2026-05-02 12:33:26] INFO: Fetching fresh auth token...
+[2026-05-02 12:33:26] INFO: Token fetched successfully
+[2026-05-02 12:33:26] INFO: Fetching depots...
+[2026-05-02 12:33:26] INFO: Fetched 4 depots
+[2026-05-02 12:33:26] INFO: Fetching vehicles...
+[2026-05-02 12:33:26] INFO: Fetched 38 vehicles
+[2026-05-02 12:33:26] INFO: Depot 1 | Budget: 60
+[2026-05-02 12:33:26] INFO: Depot 2 | Budget: 135
+[2026-05-02 12:33:26] INFO: Depot 3 | Budget: 188
+[2026-05-02 12:33:26] INFO: Depot 4 | Budget: 97
+[2026-05-02 12:33:26] INFO: Schedule computed successfully
+[2026-05-02 12:33:26] INFO: GET /schedule - 200 - 241ms
+[2026-05-02 12:35:13] INFO: Vehicle Scheduler server running on port 3000
+[2026-05-02 12:35:17] INFO: Received GET /schedule
+[2026-05-02 12:35:17] INFO: Fetching fresh auth token...
+[2026-05-02 12:35:17] INFO: Token fetched successfully
+[2026-05-02 12:35:17] INFO: Fetching depots...
+[2026-05-02 12:35:17] INFO: Fetched 2 depots
+[2026-05-02 12:35:17] INFO: Fetching vehicles...
+[2026-05-02 12:35:17] INFO: Fetched 32 vehicles
+[2026-05-02 12:35:17] INFO: Depot 4 | Budget: 97
+[2026-05-02 12:35:17] INFO: Depot 5 | Budget: 164
+[2026-05-02 12:35:17] INFO: Schedule computed successfully
+[2026-05-02 12:35:17] INFO: GET /schedule - 200 - 203ms
+[2026-05-02 12:35:22] INFO: Received GET /schedule
+[2026-05-02 12:35:22] INFO: Fetching fresh auth token...
+[2026-05-02 12:35:22] INFO: Token fetched successfully
+[2026-05-02 12:35:22] INFO: Fetching depots...
+[2026-05-02 12:35:22] INFO: Fetched 2 depots
+[2026-05-02 12:35:22] INFO: Fetching vehicles...
+[2026-05-02 12:35:22] INFO: Fetched 33 vehicles
+[2026-05-02 12:35:22] INFO: Depot 4 | Budget: 97
+[2026-05-02 12:35:22] INFO: Depot 5 | Budget: 164
+[2026-05-02 12:35:22] INFO: Schedule computed successfully
+[2026-05-02 12:35:22] INFO: GET /schedule - 200 - 200ms
+[2026-05-02 12:36:21] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:36:31] ERROR: ERROR: read ECONNRESET
+[2026-05-02 12:38:11] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:38:11] INFO: Fetching fresh auth token...
+[2026-05-02 12:38:11] INFO: Auth token fetched successfully.
+[2026-05-02 12:38:11] INFO: Fetching notifications...
+[2026-05-02 12:38:11] INFO: Fetched 20 total notifications
+[2026-05-02 12:38:11] INFO: Top 10 priority notifications selected successfully
+[2026-05-02 12:38:11] INFO: #1 | Type: Placement | Message: Alphabet Inc. Class A hiring | Timestamp: 2026-05-02 02:06:27
+[2026-05-02 12:38:11] INFO: #2 | Type: Placement | Message: Broadcom Inc. hiring | Timestamp: 2026-05-01 23:06:33
+[2026-05-02 12:38:11] INFO: #3 | Type: Placement | Message: CSX Corporation hiring | Timestamp: 2026-05-01 22:06:51
+[2026-05-02 12:38:11] INFO: #4 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-01 15:07:57
+[2026-05-02 12:38:11] INFO: #5 | Type: Placement | Message: Nvidia Corporation hiring | Timestamp: 2026-05-01 12:07:39
+[2026-05-02 12:38:11] INFO: #6 | Type: Placement | Message: Amazon.com Inc. hiring | Timestamp: 2026-05-01 12:07:09
+[2026-05-02 12:38:11] INFO: #7 | Type: Placement | Message: Visa Inc. hiring | Timestamp: 2026-05-01 07:06:15
+[2026-05-02 12:38:11] INFO: #8 | Type: Result | Message: project-review | Timestamp: 2026-05-02 05:36:09
+[2026-05-02 12:38:11] INFO: #9 | Type: Result | Message: end-sem | Timestamp: 2026-05-02 05:06:57
+[2026-05-02 12:38:11] INFO: #10 | Type: Result | Message: mid-sem | Timestamp: 2026-05-02 03:37:21
+[2026-05-02 12:38:51] INFO: Starting Priority Inbox - fetching notifications...
+[2026-05-02 12:38:51] INFO: Fetching fresh auth token...
+[2026-05-02 12:38:51] INFO: Auth token fetched successfully.
+[2026-05-02 12:38:51] INFO: Fetching notifications...
+[2026-05-02 12:38:51] INFO: Fetched 20 total notifications
+[2026-05-02 12:38:51] INFO: Top 10 priority notifications selected successfully
+[2026-05-02 12:38:51] INFO: #1 | Type: Placement | Message: CSX Corporation hiring | Timestamp: 2026-05-01 22:06:51
+[2026-05-02 12:38:51] INFO: #2 | Type: Placement | Message: Berkshire Hathaway Inc. hiring | Timestamp: 2026-05-01 21:38:03
+[2026-05-02 12:38:51] INFO: #3 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-01 15:07:57
+[2026-05-02 12:38:51] INFO: #4 | Type: Placement | Message: Nvidia Corporation hiring | Timestamp: 2026-05-01 12:07:39
+[2026-05-02 12:38:51] INFO: #5 | Type: Placement | Message: Amazon.com Inc. hiring | Timestamp: 2026-05-01 12:07:09
+[2026-05-02 12:38:51] INFO: #6 | Type: Placement | Message: Tesla Inc. hiring | Timestamp: 2026-05-01 11:08:21
+[2026-05-02 12:38:51] INFO: #7 | Type: Placement | Message: Nvidia Corporation hiring | Timestamp: 2026-05-01 07:38:33
+[2026-05-02 12:38:51] INFO: #8 | Type: Placement | Message: Booking Holdings Inc. hiring | Timestamp: 2026-05-01 07:38:09
+[2026-05-02 12:38:51] INFO: #9 | Type: Result | Message: internal | Timestamp: 2026-05-02 06:08:39
+[2026-05-02 12:38:51] INFO: #10 | Type: Result | Message: end-sem | Timestamp: 2026-05-02 05:06:57
