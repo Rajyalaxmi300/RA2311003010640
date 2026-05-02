@@ -57,7 +57,7 @@ This project implements:
 
 ### 🔹 Scheduler API Response
 
-![Scheduler API](./ss/pic%201.png)
+![Scheduler API](./ss/pic1.png)
 
 ---
 
