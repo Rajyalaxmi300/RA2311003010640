@@ -63,7 +63,7 @@ This project implements:
 
 ### 🔹 Priority Notification Output
 
-![Priority Output](./ss/pic%202.png)
+![Priority Output](./ss/pic2.png)
 
 ---
 
